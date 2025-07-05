@@ -14,7 +14,7 @@ A sleek Cisco Packet Tracer project showcasing core CCNA concepts: VLANs, Inter-
 
 ## 🖼️ Photos And Info
 <p align="center">
-  <img src="images/advance-vlan.jpg" width="500" alt="Diagram" />
+  <img src="images/scale-lan.jpg" width="500" alt="Diagram" />
 </p>
 ## Devices:
 1 Router (Cisco 2811) 🖧
