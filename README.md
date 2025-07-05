@@ -93,7 +93,5 @@ Use Packet Tracer’s Simulation Mode to trace packets. 🔍
 ## 👨‍💻 Author
 Created by **HeidarAli** – Future CCNP & DevNet Pro! 🌐
 
-## 📜 License
-[MIT License 📄]
-
-🌟 Thanks for checking out this project! Questions? Open an issue! 😊
+> ⚠️ License Notice:
+> This project was previously licensed under [MIT](LICENSE). As of 2025-07-04, it is now licensed under [Apache 2.0](LICENSE).
