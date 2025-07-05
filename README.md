@@ -13,14 +13,14 @@ A clean Cisco Packet Tracer lab covering VLANs, Inter-VLAN Routing, and ACLs —
 
 ---
 
-## 🖼️ Photos And Info
+## 🖼️ Photos
 <p align="center">
   <img src="images/scale-lan.jpg" width="500" alt="Diagram" />
-</p>
+  
 ## Devices:
-1 Router (Cisco 2811) 🖧
-1 Switch (Cisco 2950-24) 🔌
-4 PCs (2 per VLAN) 💻
+- 1 Router (Cisco 2811) 🖧
+- 1 Switch (Cisco 2950-24) 🔌
+- 4 PCs (2 per VLAN) 💻
 
 Connections: Trunk link between switch and router 🌉
 
@@ -50,7 +50,6 @@ Connections: Trunk link between switch and router 🌉
 
 ## 🚀 Quick Start
 
-# Clone the repo
 git clone [https://github.com/HeidarAli83h/LAN-Simulation-with-VLANs-Routing-Sample-ACL]
 
 # Open the project file
@@ -95,6 +94,6 @@ Use Packet Tracer’s Simulation Mode to trace packets. 🔍
 Created by **HeidarAli** – Future CCNP & DevNet Pro! 🌐
 
 ## 📜 License
-MIT License 📄
+[MIT License 📄]
 
 🌟 Thanks for checking out this project! Questions? Open an issue! 😊
